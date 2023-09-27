@@ -1,0 +1,14 @@
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+
+	--dark-blue: #3a4a4c;
+	--mid-blue: #5d8a7c;
+	--light-blue: #adc6c6;
+	--white: #f8f9f7;
+	--black: #242d34;
+
+	font-family: "Inclusive Sans", sans-serif;
+	font-family: "Lato", sans-serif;
+}
